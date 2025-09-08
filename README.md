@@ -13,7 +13,6 @@
 💻 I mainly work with **Python, TypeScript, Java, React.js, Angular, C, a**, applying **Clean Code, SOLID principles, and design patterns**.  
 🚀 Exploring projects in **geoprocessing, data analysis e web-development**.
 
----
 
 ## 🛠️ Tecnologias | Technologies
 
@@ -26,14 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
 </p>
 
----
 
 ## 📊 Estatísticas do GitHub | Github Stats
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amonsantos73&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amonlsantos&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="160"/> </p>
 
----
 
 ## 🧩 LeetCode
 
@@ -46,7 +43,6 @@
   </a>
 </p>
 
----
 
 ## 📫 Contato | Contact
 
@@ -54,7 +50,6 @@
 - 🌐 GitHub: [amonsantos73](https://github.com/amonsantos73)
 - 💼 LinkedIn: [Amon Lemes dos Santos](www.linkedin.com/in/amon-lemes-dos-santos)
 
----
 
 ⭐ **pt-br**: Se gostou de algum projeto meu, não esqueça de dar um **star**! 🚀  
 ⭐ **en**: If you like any of my projects, don’t forget to give it a **star**! 🚀
