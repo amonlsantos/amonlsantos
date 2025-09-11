@@ -29,7 +29,8 @@
 ## 📊 Estatísticas do GitHub | Github Stats
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amonsantos73&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amonlsantos&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="160"/> </p>
+![](https://raw.githubusercontent.com/amonlsantos/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/amonlsantos/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 ## 🧩 LeetCode
