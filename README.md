@@ -29,7 +29,7 @@
 ## 📊 Estatísticas do GitHub | Github Stats
 
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amonlsantos&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amonlsantos&layout=normal&theme=dracula)
 ![Amon's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=amonlsantos&theme=dracula)
 
 
